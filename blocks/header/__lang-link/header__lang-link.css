@@ -5,6 +5,7 @@
   line-height: 28px;
   text-decoration: none;
   color: #ffffff;
+  cursor: pointer;
 }
 
 .header__lang-link[lang="ru"] {
