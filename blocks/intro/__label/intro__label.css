@@ -1,0 +1,13 @@
+.intro__label {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 16px;
+  max-width: 283px;
+}
+
+@media screen and (max-width: 1279px) {
+  .intro__label {
+    display: none;
+  }
+}

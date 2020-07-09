@@ -1,5 +1,9 @@
 @import url(./__title/intro__title.css);
+@import url(./__content-row/intro__content-row.css);
 @import url(./__text/intro__text.css);
+@import url(./__label/intro__label.css);
+@import url(./__label-text/intro__label-text.css);
+@import url(./__span-accent/intro__span-accent.css);
 @import url(./__list/intro__list.css);
 
 .intro {

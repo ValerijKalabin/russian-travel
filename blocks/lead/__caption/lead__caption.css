@@ -4,7 +4,6 @@
   box-sizing: border-box;
   padding: 0;
   margin: 0 auto;
-  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 10px;
@@ -28,7 +27,6 @@
 
 @media screen and (max-width: 425px) {
   .lead__caption {
-    max-width: 100%;
     padding-left: 16px;
   }
 }
