@@ -7,6 +7,11 @@
   line-height: 28px;
 }
 
+.header__lang-link:hover {
+  color: #aaaaaa;
+  cursor: pointer;
+}
+
 @media screen and (max-width: 425px) {
   .header__lang-link {
     font-size: 18px;
