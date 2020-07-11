@@ -1,8 +1,0 @@
-.header__lang-link_selected_no {
-  text-decoration: none;
-}
-
-.header__lang-link_selected_no:hover {
-  color: #aaaaaa;
-  cursor: pointer;
-}

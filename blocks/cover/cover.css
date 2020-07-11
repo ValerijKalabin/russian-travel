@@ -1,14 +1,10 @@
+@import url(./__link/cover__link.css);
 @import url(./__overlay/cover__overlay.css);
-@import url(./__background/cover__background.css);
 @import url(./__title/cover__title.css);
 @import url(./__subtitle/cover__subtitle.css);
 
 .cover {
-  display: block;
-  text-decoration: none;
-  color: #ffffff;
   width: 100%;
-  cursor: pointer;
 }
 
 @media screen and (min-width: 1184px) {
